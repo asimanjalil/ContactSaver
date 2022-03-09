@@ -12,16 +12,11 @@ The following **required** functionality is completed:
 * [ ] User can enter a new person
 * [ ] The user sees added new person. 
 
-The following **extensions** are implemented:
-
-* [ ] Custom colors palette selected
-* [ ] List anything else that you did to improve the app functionality or design!
-
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgflip.com/gif/67z9wy' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<a href="https://imgflip.com/gif/67z9wy" ><img src='https://i.imgflip.com/67z9wy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />  </a>
 
 GIF created with [ImgFlip](https://imgflip.com/).
 
